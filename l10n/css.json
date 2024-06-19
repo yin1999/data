@@ -68,42 +68,48 @@
     "en-US": "for percentage and length values, the absolute length, otherwise the keyword as specified",
     "fr": "pour les valeurs exprimées en pourcentages ou en longueur, la longueur absolue, sinon, le mot-clé comme spécifié",
     "ja": "パーセンテージか長さを指定すると絶対的な値、それ以外は指定されたキーワード",
-    "ru": "для процентов и значений длин, абсолютных длин или ключевых слов, если указаны"
+    "ru": "для процентов и значений длин, абсолютных длин или ключевых слов, если указаны",
+    "zh-CN": "对于百分比和长度值，其为绝对长度，否则为指定关键字"
   },
   "absoluteLengthOrNone": {
     "de": "die absolute Länge oder <code>none</code>",
     "en-US": "the absolute length or <code>none</code>",
     "fr": "la longueur absolue ou le mot-clé <code>none</code>",
     "ja": "絶対的な長さまたは <code>none</code>",
-    "ru": "абсолютная длина или <code>none</code>"
+    "ru": "абсолютная длина или <code>none</code>",
+    "zh-CN": "绝对长度或 <code>none</code>"
   },
   "absoluteLengthOrNormal": {
     "de": "die absolute Länge oder das Schlüsselwort <code>normal</code>",
     "en-US": "the absolute length or the keyword <code>normal</code>",
     "fr": "la longueur absolue ou le mot-clé <code>normal</code>",
     "ja": "絶対的な長さまたはキーワード <code>normal</code>",
-    "ru": "абсолютная длина или ключевое слово <code>normal</code>"
+    "ru": "абсолютная длина или ключевое слово <code>normal</code>",
+    "zh-CN": "绝对长度或关键字 <code>normal</code>"
   },
   "absoluteLengthOrPercentage": {
     "de": "für {{cssxref(\"length\")}} der absolute Wert, ansonsten ein Prozentwert",
     "en-US": "for {{cssxref(\"length\")}} the absolute value, otherwise a percentage",
     "fr": "pour {{cssxref(\"length\")}}, la valeur absolue, sinon un pourcentage",
     "ja": "{{cssxref(\"length\")}} の場合は絶対的な値、それ以外はパーセント値",
-    "ru": "для {{cssxref(\"length\")}} абсолютного значения, иначе процент"
+    "ru": "для {{cssxref(\"length\")}} абсолютного значения, иначе процент",
+    "zh-CN": "对于 {{cssxref(\"length\")}}，为绝对值，否则为百分比"
   },
   "absoluteLengthsSpecifiedColorAsSpecified": {
     "de": "Längen absolut gemacht; angegebene Farben berechnet; ansonsten wie angegeben",
     "en-US": "any length made absolute; any specified color computed; otherwise as specified",
     "fr": "toute longueur sous forme absolue; toute couleur sous forme calculée; sinon comme spécifié",
     "ja": "指定値（length は全て絶対値となり、color については計算値となる）",
-    "ru": "любая абсолютная длина; работает любой указанный цвет; если другое не указано"
+    "ru": "любая абсолютная длина; работает любой указанный цвет; если другое не указано",
+    "zh-CN": "任何长度均为绝对值；任何指定的颜色均为计算值；否则为指定值"
   },
   "absoluteLengthZeroIfBorderStyleNoneOrHidden": {
     "de": "absolute Länge; <code>0</code>, falls der Rahmenstil <code>none</code> oder <code>hidden</code> ist",
     "en-US": "absolute length; <code>0</code> if the border style is <code>none</code> or <code>hidden</code>",
     "fr": "une longueur absolue ; <code>0</code> si le style de la bordure vaut <code>none</code> ou <code>hidden</code>",
     "ja": "絶対的な長さ、境界スタイルが <code>none</code> または <code>hidden</code> であれば <code>0</code>",
-    "ru": "абсолютная длина; <code>0</code>, если стиль рамки <code>none</code> или <code>hidden</code>"
+    "ru": "абсолютная длина; <code>0</code>, если стиль рамки <code>none</code> или <code>hidden</code>",
+    "zh-CN": "绝对长度；如果边框样式为 <code>none</code> 或 <code>hidden</code>，则其值为 <code>0</code>"
   },
   "absoluteLengthZeroOrLarger": {
     "de": "the absolute length, zero oder larger",
@@ -151,7 +157,8 @@
     "en-US": "all elements that accept width or height",
     "fr": "tous les éléments acceptant une largeur ou une hauteur",
     "ja": "width および height を受け付ける全ての要素",
-    "ru": "все элементы, которые могут иметь ширину и высоту"
+    "ru": "все элементы, которые могут иметь ширину и высоту",
+    "zh-CN": "所有接受宽度或高度的元素"
   },
   "allElementsAndPseudos": {
     "de": "alle Elemente, {{cssxref(\"::before\")}} und {{cssxref(\"::after\")}} <a href=\"/de/docs/Web/CSS/Pseudo-elements\">Pseudoelemente</a>",
@@ -159,7 +166,8 @@
     "es": "todos los elementos y los <a href=\"/es/docs/Web/CSS/Pseudoelementos\">pseudoelementos</a> {{cssxref(\"::before\")}} y {{cssxref(\"::after\")}}",
     "fr": "tous les éléments, ainsi que les <a href=\"/fr/docs/Web/CSS/Pseudo-elements\">pseudo-elements</a> {{cssxref(\"::before\")}} et {{cssxref(\"::after\")}}",
     "ja": "すべての要素、{{cssxref(\"::before\")}} / {{cssxref(\"::after\")}} <a href=\"/ja/docs/Web/CSS/Pseudo-elements\">擬似要素</a>",
-    "ru": "все элементы, {{cssxref(\"::before\")}} и {{cssxref(\"::after\")}} <a href=\"/ru/docs/Web/CSS/Pseudo-elements\">псевдоэлементы</a>"
+    "ru": "все элементы, {{cssxref(\"::before\")}} и {{cssxref(\"::after\")}} <a href=\"/ru/docs/Web/CSS/Pseudo-elements\">псевдоэлементы</a>",
+    "zh-CN": "所有元素，以及 {{cssxref(\"::before\")}} 和 {{cssxref(\"::after\")}} <a href=\"/zh-CN/docs/Web/CSS/Pseudo-elements\">伪元素</a>"
   },
   "allElementsAndText": {
     "en-US": "all elements and text",
@@ -180,21 +188,24 @@
     "en-US": "all elements but non-replaced inline elements, table rows, and row groups",
     "fr": "tous les éléments sauf les éléments en ligne non remplacés, les lignes de tableaux et les groupes de lignes",
     "ja": "置換要素でないインライン要素、テーブルの行、行グループを除くすべての要素",
-    "ru": "все элементы, кроме незаменяемых строчных элементов, табличных строк и групп строк"
+    "ru": "все элементы, кроме незаменяемых строчных элементов, табличных строк и групп строк",
+    "zh-CN": "适用于所有元素，但不包括非替换行级元素、表格行和行组"
   },
   "allElementsCreatingNativeWindows": {
     "de": "alle Elemente, die native Fenster erstellen, z. B. &lt;window&gt;, &lt;panel&gt;",
     "en-US": "all elements that create native windows, e.g. &lt;window&gt;, &lt;panel&gt;",
     "fr": "tous les éléments qui créent des fenêtres natives, par exemple &lt;window&gt;, &lt;panel&gt;",
     "ja": "ネイティブウィンドウを生成するすべての要素、たとえば &lt;window&gt;, &lt;panel&gt;",
-    "ru": "все элементы, создающие нативные окна, например, &lt;window&gt;, &lt;panel&gt;"
+    "ru": "все элементы, создающие нативные окна, например, &lt;window&gt;, &lt;panel&gt;",
+    "zh-CN": "创建原生窗口的所有元素，例如 &lt;window&gt;、&lt;panel&gt;"
   },
   "allElementsExceptGeneratedContentOrPseudoElements": {
     "de": "alle Elemente außer generierte Inhalte oder Pseudoelemente",
     "en-US": "all elements except generated content or pseudo-elements",
     "fr": "tous les éléments sauf le contenu généré ou les pseudo-éléments",
     "ja": "生成コンテンツや擬似要素を除くすべての要素",
-    "ru": "все элементы, кроме сгенерированного контента и псевдоэлементов"
+    "ru": "все элементы, кроме сгенерированного контента и псевдоэлементов",
+    "zh-CN": "除生成内容或伪元素外的所有元素"
   },
   "allElementsExceptInlineBoxesAndInternalRubyOrTableBoxes": {
     "de": "all elements except inline boxes and internal ruby or table boxes",
